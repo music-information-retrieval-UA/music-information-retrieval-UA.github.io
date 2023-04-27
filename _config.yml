@@ -1,0 +1,10 @@
+title: Introduction to MIR
+description: Webpage for the T4E course "Introduction to Music Infromation Retrieval"
+# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
+
+url: https://just-the-docs.github.io
+
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
