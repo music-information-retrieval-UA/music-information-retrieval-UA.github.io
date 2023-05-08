@@ -1,7 +1,7 @@
 ---
-title: Prior to the course
+title: Resources
 layout: about
-description: Resources to check prior to the start of the course
+description: Resources of the course
 ---
 
 # Prior to the course
@@ -17,3 +17,7 @@ More recently, Markus Schedl, Emilia Gómez, and Julián Urbano---also prominent
 In a more practical sense, Meinard Müller recently presented a [tutorial](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html) with a large collection of Python Notebooks that deal with a large number of MIR topics in a more technical manner.
 
 Finally, if you are further interested in the topic, you should visit the main webpage of the [International Society of Music Information Retrieval (ISMIR)](https://www.ismir.net/) in which a large number of resources including datasets, tutorials, scientific papers, and software tools are provided.
+
+
+# Class materials
+You may access the materials of the course in the following [link](https://drive.google.com/u/0/open?id=1Fz-TWCEHSExANgW4G9t4lnWM4Y3BhWLTh-eUOUOrB4A).
