@@ -1,10 +1,10 @@
 ---
-title: Resources
+title: Prior to the course
 layout: about
-description: Resources for the MIR course
+description: Resources to check prior to the start of the course
 ---
 
-# Resources for the course
+# Prior to the course
 
 While you may already be aware of what [Music Information Retrieval](https://en.wikipedia.org/wiki/Music_information_retrieval) is as well as the different technologies that implement it, we consider that it would be better that we all started from the same common point. Hence, we will now provide you some resources for you to check.
 
