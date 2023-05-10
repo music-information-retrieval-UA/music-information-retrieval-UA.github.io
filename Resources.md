@@ -21,3 +21,6 @@ Finally, if you are further interested in the topic, you should visit the main w
 
 # Class materials
 You may access the materials of the course in the following [link](https://drive.google.com/u/0/open?id=1Fz-TWCEHSExANgW4G9t4lnWM4Y3BhWLTh-eUOUOrB4A).
+
+# Final assignment
+The description of the final task of the course is provided in the following [link](https://docs.google.com/document/d/1b0EwglA2oS6LWJX1yES36ERB-D4SM0vT97zqxjX2FnM/edit?usp=sharing).
